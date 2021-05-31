@@ -1,1 +1,5 @@
-<h1> Doogie's </h1>
+<h1> Doogie's study </h1>
+
+<list> 공부하기 싫다 
+  재밌는것만 골라 하고싶다.
+  </list>
